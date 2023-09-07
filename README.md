@@ -1,13 +1,14 @@
 # Fin
 
 Fin aims to enhance the visual appeal of Revolt, giving it a more refined, clean, and modern look.
+This is a forked version of [meppu/fin](https://www.github.com/meppu/fin) that is edited to be more ergonomic.
 
 ## Usage
 
 To apply the changes to Revolt, import the provided configuration. You can find the configuration file here:
 
 ```
-https://raw.githubusercontent.com/meppu/fin/deploy/theme.json
+https://raw.githubusercontent.com/vloddot/fin/deploy/theme.json
 ```
 
 ## Screenshots
