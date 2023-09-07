@@ -9,23 +9,6 @@ div[class^="MessageBox__Base-sc-"] {
   }
 }
 
-// show messages as bubble
-div[class^="MessageBase-sc-"] {
-  &:hover {
-    background: var(--secondary-background);
-  }
-
-  div[class^="MessageBase__MessageContent-sc-"] {
-    border-radius: var(--border-radius);
-    padding: 0.6rem 1rem;
-    background: var(--secondary-header);
-
-    > span {
-      margin-bottom: 4px;
-    }
-  }
-}
-
 // ping
 div[class^="MessageBase-sc-"].cZEhIO,
 div[class^="MessageBase-sc-"].fhGxEk {
