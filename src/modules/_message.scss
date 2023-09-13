@@ -1,6 +1,6 @@
 // message box
 div[class^="MessageBox__Base-sc-"] {
-  margin: var(--textarea-padding);
+  margin: 0px var(--textarea-padding) var(--textarea-padding);
   border-radius: var(--border-radius);
   border-bottom: 2px solid var(--accent);
 
