@@ -15,6 +15,25 @@ div[class^="MessageBase-sc-"].fhGxEk {
   border-left: 2px solid var(--mention);
 }
 
+// typing indicator and reply bar
+div[class^="TypingIndicator__Base-sc-"], div[class^="ReplyBar__Base-sc-"] {
+  margin: 0px var(--textarea-padding);
+}
+
+// typing indicator
+div[class^="TypingIndicator__Base-sc-"] {
+  > div {
+    border-top-left-radius: var(--border-radius);
+    border-top-right-radius: var(--border-radius);
+  }
+}
+
+// reply bar
+div[class^="ReplyBar__Base-sc-"] {
+  border-top-left-radius: var(--border-radius);
+  border-top-right-radius: var(--border-radius);
+}
+
 // message reaction
 .sc-jSgvzq.cTcKPP,
 .sc-jSgvzq.fDfxAc {
