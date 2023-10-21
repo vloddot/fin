@@ -1,7 +1,7 @@
 # Fin
 
 Fin aims to enhance the visual appeal of Revolt, giving it a more refined, clean, and modern look.
-This is a forked version of [meppu/fin](https://www.github.com/meppu/fin) that is edited to be more ergonomic.
+This is a forked version of [meppu/fin](https://www.github.com/meppu/fin) that is edited to remove some unnecessary padding and fix some issues.
 
 ## Usage
 
