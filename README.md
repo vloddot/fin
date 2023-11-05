@@ -5,11 +5,7 @@ This is a forked version of [meppu/fin](https://www.github.com/meppu/fin) that i
 
 ## Usage
 
-To apply the changes to Revolt, import the provided configuration. You can find the configuration file here:
-
-```
-https://raw.githubusercontent.com/vloddot/fin/deploy/theme.json
-```
+To apply the changes to Revolt, import the provided configuration. You can find the configuration file [here](https://raw.githubusercontent.com/vloddot/fin/deploy/theme.json).
 
 ## Screenshots
 
