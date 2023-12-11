@@ -8,8 +8,23 @@ div[class^="MemberList__ListCategory-sc"] {
 div[class^="SidebarBase__GenericSidebarBase-sc-"] div[class^="_name_"] {
   font-weight: 500 !important;
 
-  > div {
+  >div {
     display: flex;
     align-items: center;
+  }
+}
+
+// make search bar bigger, if on firefox, needs the :has selector enabled
+
+// the bar for the members list
+.jyizw {
+
+  // is not a dms bar
+  &:not(:has(.iDeTmr)) {
+
+    // the element with the actual width, :has selects if it's a search bar
+    .dUCGFk:has(.gaQhZQ) {
+      width: 400px;
+    }
   }
 }
